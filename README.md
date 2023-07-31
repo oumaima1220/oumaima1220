@@ -6,7 +6,7 @@ I am motivated to explore complex datasets and discover valuable informations to
 
 📊 Data visualization: I think data is more powerful when presented visually. I like to design data visualizations that communicate ideas clearly, making data more accessible to stakeholders.
 
-🤖 Data Science: As a data scientist I am constantly working on my machine learning and predictive modeling skills. I like to discover the latest algorithms and developing models to address real-world challenges.
+🤖 Data Science: As a data scientist I am constantly working on my machine learning and predictive modeling skills. I like to discover the latest algorithms and develop models to address real-world challenges.
 
 <!---
 oumaima1220/oumaima1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
