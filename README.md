@@ -1,4 +1,4 @@
-👋 Hi, I am Oumaima Edaou, welcome to my github profile. 
+👋 Hi, my name is Oumaima Edaou, welcome to my github profile. 
 
 I am motivated to explore complex datasets and discover valuable informations to make data-driven decisions. I am passionate about:
 
