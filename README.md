@@ -1,4 +1,4 @@
-👋 Hi, my name is EDAOU Oumaima, welcome to my github profile.
+👋 Hi, I am Oumaima Edaou, welcome to my github profile.
 - 👀 I’m interested in AI, data science and data analysis.
 - 🌱 I’m currently a data analytics and data science enthusiast
 - ✨ My LinkedIn : https://www.linkedin.com/in/oumaima-edaou-062a84205/ 
