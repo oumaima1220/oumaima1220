@@ -9,7 +9,7 @@ I am motivated to explore complex datasets and discover valuable informations to
 🤖 Data Science: As a data scientist I am constantly working on my machine learning and predictive modeling skills. I like to discover the latest algorithms and develop models to address real-world challenges.
 
 <img src="https://t.bkit.co/w_64ce428b58c8c.gif" />
-https://t.bkit.co/w_64ce428b58c8c.gif
+
 <!---
 oumaima1220/oumaima1220 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
